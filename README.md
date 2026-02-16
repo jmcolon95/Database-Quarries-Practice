@@ -14,6 +14,7 @@ In the images I used CREATE DATABASE to create the streaming analytics database.
 
 <img width="622" height="511" alt="Screenshot 2026-01-17 010553" src="https://github.com/user-attachments/assets/4e90897d-6d71-470a-b3ad-223508b6f2ef" />
 
+
 ## Filling in the tables
 
 They next set of images shows how I used the INSERT command to fill the tables.
