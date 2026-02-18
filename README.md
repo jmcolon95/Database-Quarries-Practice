@@ -24,3 +24,24 @@ They next set of images shows how I used the INSERT command to fill the tables.
 <img width="892" height="380" alt="Screenshot 2026-01-25 184532" src="https://github.com/user-attachments/assets/41365109-2446-42bc-a8c0-3b82c0aa322b" />
 
 <img width="1090" height="586" alt="Screenshot 2026-01-25 185431" src="https://github.com/user-attachments/assets/ade33c56-bf6b-4ab5-80af-e207aa29bd89" />
+
+## Basic Quaries
+
+### Connect & Exploring Data 
+
+<img width="1024" height="281" alt="Screenshot 2026-02-15 194425" src="https://github.com/user-attachments/assets/2c1e9f23-7475-42c5-892a-317abde33153" />
+
+### Filtering Data 
+
+<img width="1032" height="227" alt="Screenshot 2026-02-15 194519" src="https://github.com/user-attachments/assets/7cdf9f1a-01f8-4743-b19d-f4669e0cd14a" />
+
+### Sorting and Functions
+
+<img width="830" height="292" alt="Screenshot 2026-02-15 194621" src="https://github.com/user-attachments/assets/21943091-ff42-42c6-a3d7-05a3a718530a" />
+
+<img width="830" height="292" alt="Screenshot 2026-02-15 194621" src="https://github.com/user-attachments/assets/3f79a289-043d-452d-b814-a9ebfdee2768" />
+
+### Grouping Data
+
+<img width="753" height="237" alt="Screenshot 2026-02-15 194913" src="https://github.com/user-attachments/assets/b9bee235-873b-42bd-8f33-8520ef9be307" />
+
